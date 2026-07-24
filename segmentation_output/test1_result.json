@@ -1,0 +1,112 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          498.8597106933594,
+          306.3077392578125
+        ],
+        [
+          588.42041015625,
+          637.45849609375
+        ]
+      ],
+      "group_id": null,
+      "description": "score:0.6821",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          940.4171752929688,
+          308.49517822265625
+        ],
+        [
+          1152.6373291015625,
+          586.7931518554688
+        ]
+      ],
+      "group_id": null,
+      "description": "score:0.6942",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          580.5599365234375,
+          365.66717529296875
+        ],
+        [
+          716.2086181640625,
+          619.5064086914062
+        ]
+      ],
+      "group_id": null,
+      "description": "score:0.6840",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          356.5591125488281,
+          281.2568359375
+        ],
+        [
+          493.5130615234375,
+          658.5056762695312
+        ]
+      ],
+      "group_id": null,
+      "description": "score:0.6984",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          649.836669921875,
+          308.2403869628906
+        ],
+        [
+          850.4205932617188,
+          603.2206420898438
+        ]
+      ],
+      "group_id": null,
+      "description": "score:0.6767",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          796.4700927734375,
+          314.4122009277344
+        ],
+        [
+          925.7283935546875,
+          597.3014526367188
+        ]
+      ],
+      "group_id": null,
+      "description": "score:0.6663",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "test1.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}
