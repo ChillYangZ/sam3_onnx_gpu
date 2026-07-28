@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+numpy
+opencv-python
+pillow
+onnxruntime-gpu
+tokenizers
+transformers
