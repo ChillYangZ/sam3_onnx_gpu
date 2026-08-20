@@ -7,6 +7,9 @@ sam3-models/
 segmentation_input/
 segmentation_output/
 
+# === 临时文件 ===
+.temp/
+
 # === Python 缓存 ===
 __pycache__/
 *.py[cod]
