@@ -3,10 +3,6 @@ onnx-models/
 onnx-models_export/
 sam3-models/
 
-# === 输入输出数据 ===
-segmentation_input/
-segmentation_output/
-
 # === 临时文件 ===
 .temp/
 
