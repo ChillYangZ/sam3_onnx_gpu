@@ -1,0 +1,20 @@
+# API service and ONNX inference runtime
+fastapi
+uvicorn[standard]
+python-multipart
+starlette
+numpy
+opencv-python
+pillow
+onnxruntime-gpu==1.26.0
+tokenizers
+transformers
+safetensors
+
+# ONNX export utilities
+torch
+torchvision
+onnx
+
+# Desktop GUI
+PyQt5
